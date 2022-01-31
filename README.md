@@ -11,7 +11,7 @@ Based on the below chart, the following findings can be applied:
   - Urban markets have both the highest total rides AND the highest total drivers.  This is likely due to having a disproportionately higher population density in this market compared to the suburban and rural markets.
   - Total fares in the urban market came in at the highest, which is likely due to having the highest total rides and total drivers.  That being said, their average fare per ride and average fare per driver were the lowest of the three markets, which may indicate that fare revenue is higher in city types that have a higher driver to rider ratio.
 
-![](analysis/Pyber_challenge_summary.png)
+![](analysis/Pyber_challenge_chart.png)
 
 ## Summary
 
